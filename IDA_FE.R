@@ -1,5 +1,5 @@
 # R script to perform IDA on RECS 1990-2015 #####
-# outcome variable decomposed: primary energy consumption
+# outcome variable decomposed: final energy consumption
 
 rm(list=ls()) # clear workspace
 # cat("\014") # clear console
